@@ -68,6 +68,7 @@ returns: an object and collection of generated work events for the given period 
 
 ## Tests
 > Run `npm install mocha -g`
+
 > Run `mocha tests`
 
 License
