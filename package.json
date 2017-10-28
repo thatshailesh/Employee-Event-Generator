@@ -1,0 +1,29 @@
+{
+  "name": "work-events",
+  "version": "1.0.0",
+  "description": "Service to get work events of an employee",
+  "main": "api.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatshailesh/Work-Events.git"
+  },
+  "author": "Shailesh Shekhawat",
+  "license": "ISC",
+  "bugs": { 
+    "url": "https://github.com/thatshailesh/Work-Events/issues"
+  },
+  "homepage": "https://github.com/thatshailesh/Work-Events#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "date-holidays": "^1.1.0",
+    "express": "^4.16.2",
+    "joi": "^13.0.1",
+    "moment": "^2.19.1"
+  }
+}
